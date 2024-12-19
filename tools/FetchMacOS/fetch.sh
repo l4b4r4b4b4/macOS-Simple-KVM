@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # fetch.sh: Run fetch-macos.py with safety checks
 # by Foxlet <foxlet@furcode.co>

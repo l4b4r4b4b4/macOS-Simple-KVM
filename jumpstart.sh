@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # jumpstart.sh: Fetches BaseSystem and converts it to a viable format.
 # by Foxlet <foxlet@furcode.co>

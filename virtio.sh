@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 OSK="ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
 VMDIR=$PWD
